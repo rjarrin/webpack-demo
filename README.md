@@ -51,3 +51,7 @@ Demo following webpack use
   > &nbsp;|- index.js
 - Implemented webpack.config.js
 - Run npx webpack --config webpack.config.js
+
+# Scripts added (npm-scripts)
+
+- Updated package.json to run npm run build command
