@@ -60,3 +60,11 @@ Demo following webpack use
 
 - Updated dist/index.html
 - Updated webpack.config.js
+
+# (css-load)
+
+- Run command npm install --save-dev style-loader css-loader
+- Updated webpack.config.js
+- Added 'style.css' to src directory
+- Updated src/index.js
+- npm run build
