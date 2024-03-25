@@ -55,3 +55,8 @@ Demo following webpack use
 # Scripts added (npm-scripts)
 
 - Updated package.json to run npm run build command
+
+# Asset Management setup
+
+- Updated dist/index.html
+- Updated webpack.config.js
