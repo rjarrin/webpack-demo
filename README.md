@@ -12,10 +12,22 @@ Demo following webpack use
   > |- package-lock.json
   > |- index.html
   > |- /src
-  > |- index.js
+  > &nbsp;|- index.js
 
 # HTML/JS implemented (getting-started)
 
 - src/index.js coded
 - index.html coded
 - package.json coded
+
+# Updated structure (creating-bundles)
+
+- Updated project structure
+  > webpack-demo
+  > |- package.json
+  > |- package-lock.json
+  > |- /dist
+  > &nbsp;|- index.html
+  > |- /src
+  > &nbsp;|- index.js
+- npm install --save lodash
