@@ -31,3 +31,9 @@ Demo following webpack use
   > |- /src
   > &nbsp;|- index.js
 - npm install --save lodash
+
+# Import lodash (creating-bundles)
+
+- Updated src/index.js
+- Updated dist/index.html
+- Run npx webpack (generates dist/main.js)
