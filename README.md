@@ -13,3 +13,9 @@ Demo following webpack use
   > |- index.html
   > |- /src
   > |- index.js
+
+# HTML/JS implemented (getting-started)
+
+- src/index.js coded
+- index.html coded
+- package.json coded
