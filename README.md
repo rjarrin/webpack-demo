@@ -37,3 +37,17 @@ Demo following webpack use
 - Updated src/index.js
 - Updated dist/index.html
 - Run npx webpack (generates dist/main.js)
+
+# Config file added (using-configuration)
+
+- Updated project structure
+  > webpack-demo
+  > |- package.json
+  > |- package-lock.json
+  > |- webpack.config.js
+  > |- /dist
+  > &nbsp;|- index.html
+  > |- /src
+  > &nbsp;|- index.js
+- Implemented webpack.config.js
+- Run npx webpack --config webpack.config.js
