@@ -76,3 +76,10 @@ Demo following webpack use
 - Updated src/index.js
 - Updated src/style.css
 - npm run build
+
+# Font functionality (font-load)
+
+- Updated webpack.config.js
+- Added 'Roboto.ttf' to src directory
+- Updated src/style.css
+- npm run build
