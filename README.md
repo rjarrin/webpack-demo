@@ -61,10 +61,18 @@ Demo following webpack use
 - Updated dist/index.html
 - Updated webpack.config.js
 
-# (css-load)
+# CSS functionality (css-load)
 
 - Run command npm install --save-dev style-loader css-loader
 - Updated webpack.config.js
 - Added 'style.css' to src directory
 - Updated src/index.js
+- npm run build
+
+# Image functionality (image-load)
+
+- Updated webpack.config.js
+- Added 'icon.svg' to src directory
+- Updated src/index.js
+- Updated src/style.css
 - npm run build
