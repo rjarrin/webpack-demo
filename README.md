@@ -83,3 +83,11 @@ Demo following webpack use
 - Added 'Roboto.ttf' to src directory
 - Updated src/style.css
 - npm run build
+
+# Data functionality (data-load)
+
+- npm install --save-dev csv-loader xml-loader
+- Updated webpack.config.js
+- Added 'data.xml' and 'data.csv' in src directory
+- Updated src/index.js
+- npm run build
